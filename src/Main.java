@@ -73,4 +73,5 @@ public class Main {
                     "Денис теперь получает " + denisMonth2 + " рублей. Годовой доход вырос на " + ((denisMonth2 * 12) - denisYear) + " рублей" + "\n" +
                     "Кристина теперь получает " + crisrinaMonth2 + " рублей. Годовой доход вырос на " + ((crisrinaMonth2 * 12) - cristinaYear) + " рублей" + "\n");
     }
+
 }
